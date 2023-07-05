@@ -28,6 +28,7 @@ import {
 export const navLinks = [{
         id: "about",
         title: "About",
+
     },
     {
         id: "work",
@@ -106,6 +107,7 @@ const technologies = [{
         icon: figma,
     },
 ];
+
 
 const experiences = [
 
