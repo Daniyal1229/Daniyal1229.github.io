@@ -113,7 +113,7 @@ const experiences = [
 
 
     {
-        title: "Full stack Developer",
+        title: "Data Science Intern",
         company_name: "Audaz Ventures pvt. ltd",
         //icon: meta,
         iconBg: "#1d1836",
