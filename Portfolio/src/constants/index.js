@@ -119,12 +119,7 @@ const experiences = [
         iconBg: "#1d1836",
         date: "Sep 2022 - Oct 2022",
         points: [
-            "At my internship, I was responsible for a variety of tasks, including writing code, debugging, and testing. I also made several contributions to the projects I worked on, including improving the performance of a database and developing a new web application.",
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-            "I have experience with cloud computing, big data, and machine learning. I am also familiar with a variety of other technical concepts, such as object-oriented programming, data structures, and algorithms.",
+            "I got the chance to work on a number of projects as a Data Science Intern at Audaz Learning, which allowed me to obtain practical experience in the industry. I studied data collection, cleaning, and analysis techniques under the guidance of seasoned data scientists. Additionally, I developed data visualisations and learnt how to design machine learning models."
         ],
     },
     {
