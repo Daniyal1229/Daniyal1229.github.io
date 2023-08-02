@@ -3,6 +3,7 @@ import {
     backend,
     creator,
     web,
+    sonar,
     javascript,
     typescript,
     html,
@@ -222,6 +223,25 @@ const projects = [{
         ],
         image: tripguide,
         source_code_link: "https://github.com/Daniyal1229/ERMS-using-php",
+    },
+    {
+        name: "Rock vs Mine Prediction",
+        description: "This project uses machine learning to predict whether an object detected by sonar is a rock or a mine. The dataset used for this project is the Sonar dataset, which can be found at Machine Learning Repository. The model is trained using the Logistic Regression algorithm. The accuracy of the model on the test dataset is 97.7%.",
+        tags: [{
+                name: "Python",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Pandas",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Logistic Regression",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: sonar,
+        source_code_link: "https://github.com/Daniyal1229/Rock-vs-Mine-Prediction",
     },
 ];
 

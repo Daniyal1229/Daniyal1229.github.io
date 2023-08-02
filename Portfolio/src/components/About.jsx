@@ -47,7 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a skilled software developer with a broad range of technical skills, including frontend, backend, and data analysis. I am also a strong communicator and team player. I am confident that I can use my skills and abilities to help you achieve your goals. Let's work together to bring your ideas to life!
+        I am a recent graduate with a degree in Computer Science and Engineering from Visvesvaraya Technological University. I have a passion for using data to solve problems and make a positive impact on the world. I am proficient in SQL, Python, and Power BI, and I have experience with a variety of data analysis tools and techniques. I am also a strong communicator and have experience presenting data to both technical and non-technical audiences.
+
+I am looking for a data analyst role in the tech industry where I can use my skills and passion to make a difference. I am eager to learn and grow, and I am confident that I can be a valuable asset to your team.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
