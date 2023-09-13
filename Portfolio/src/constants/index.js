@@ -1,5 +1,12 @@
 import {
     mobile,
+    auto,
+    tiktok,
+    waze,
+    heart,
+    house,
+    dbt,
+    bigmart,
     backend,
     creator,
     web,
@@ -242,6 +249,139 @@ const projects = [{
         ],
         image: sonar,
         source_code_link: "https://github.com/Daniyal1229/Rock-vs-Mine-Prediction",
+    },
+    {
+        name: "Automatidata project",
+        description: "Analyzing New York City TLC data to identify key variables, ensuring dataset readiness for insightful analysis and data-based solutions.",
+        tags: [{
+                name: "Python",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Machine Learning",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Logistic Regression",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: auto,
+        source_code_link: "https://github.com/Daniyal1229/Automatidata-Project",
+    },
+    {
+        name: "Tik Tok project",
+        description: "Initiating TikTok project: Exploring provided data for claims classification model. Acquire insights via preliminary EDA, setting foundation for comprehensive analysis and testing.",
+        tags: [{
+                name: "Python",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Machine Learning",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Logistic Regression",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: tiktok,
+        source_code_link: "https://github.com/Daniyal1229/TikTok-Project",
+    },
+    {
+        name: "Waze project",
+        description: "Kicking off Waze user churn project: Evaluating user data readiness, laying groundwork for exploratory data analysis (EDA) to uncover insights crucial for retention strategies",
+        tags: [{
+                name: "Python",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Machine Learning",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Logistic Regression",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: waze,
+        source_code_link: "https://github.com/Daniyal1229/Waze-Project",
+    },
+    {
+        name: "Heart Disease Prediction",
+        description: "I have build a Heart Disease Prediction system using Machine Learning with Python. This is one of the important Machine Learning Projects. using logestic regresson",
+        tags: [{
+                name: "Python",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Machine Learning",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Logistic Regression",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: heart,
+        source_code_link: "https://github.com/Daniyal1229/Heart-Disease-Prediction",
+    },
+    {
+        name: "House Price Prediction",
+        description: "Python implementation for predicting house prices using the Boston Housing Dataset and XGBoost regression. The Boston Housing Dataset is a widely used dataset in machine learning for regression tasks, and XGBoost is a powerful gradient boosting algorithm known for its high performance in various predictive modeling tasks.",
+        tags: [{
+                name: "Python",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Machine Learning",
+                color: "green-text-gradient",
+            },
+            {
+                name: "XGBoost Regression",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: house,
+        source_code_link: "https://github.com/Daniyal1229/House-Price-prediction",
+    },
+    {
+        name: "Diabetes Prediction",
+        description: "This project aims to predict the likelihood of diabetes using a machine learning model based on the Support Vector Machine algorithm. The model is built using Python and scikit-learn library, and it assists in identifying individuals at risk of diabetes for timely medical intervention.",
+        tags: [{
+                name: "Python",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Pandas",
+                color: "green-text-gradient",
+            },
+            {
+                name: "XGBoost Regression",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: dbt,
+        source_code_link: "https://github.com/Daniyal1229/Diabetes-prediction",
+    },
+    {
+        name: "Big Mart Sales Data Prediction",
+        description: "In this project, I developed a machine learning model to predict BigMart sales. By analyzing historical data and leveraging advanced algorithms, our model optimizes inventory, pricing, and marketing strategies, empowering BigMart to boost profitability and stay ahead in the dynamic retail landscape.",
+        tags: [{
+                name: "Python",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Machine Learning",
+                color: "green-text-gradient",
+            },
+            {
+                name: "LinearRegression",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: bigmart,
+        source_code_link: "https://github.com/Daniyal1229/big-mart-data",
     },
 ];
 
